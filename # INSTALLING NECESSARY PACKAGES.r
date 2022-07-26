@@ -58,4 +58,8 @@ install.packages("xgboost")
  
  install.packages("janitor")
 
- install.packages("geograph")
+install.packages("devtools")
+library(devtools)
+devtools::install_github("humaniverse/geographr")
+
+
