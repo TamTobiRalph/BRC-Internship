@@ -71,3 +71,11 @@ install.packages("lubridate")
 install.packages("magrittr")
 install.packages("fable")
 install.packages("fpp3")
+
+
+install.packages(c(
+  "gapminder", "ggforce", "gh", "globals", "openintro", "profvis", 
+  "RSQLite", "shiny", "shinycssloaders", "shinyFeedback", 
+  "shinythemes", "testthat", "thematic", "tidyverse", "vroom", 
+  "waiter", "xml2", "zeallot" 
+))
